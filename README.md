@@ -20,20 +20,19 @@ Portfolio menjadi identitas kreatif yang menyatukan pengalaman, keahlian, dan vi
   </a>
   <a href="https://replit.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/replit/replit-original.svg" width="50"/>
+  <a href="https://codepen.io/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" width="50"/>
+  </a>
+</p>
 
 # Analisis Portfolio
 
 | Aspek | Kelebihan | Kekurangan |
 |-------|-----------|------------|
-| Layout | Optimal untuk ukuran HP, mudah di-scroll | Kurang responsif di layar desktop, elemen terlihat berantakan |
-| Warna & Tema | Warna cukup elegan, kombinasi soft & nyaman di mata | Warna tidak konsisten di beberapa bagian, kurang modern di desktop |
-| Navigasi | Menu interaktif & link sosial media langsung | Beberapa menu terlihat prank / gimmick, kurang intuitif untuk user baru |
-| Visual & Asset | ASCII art kreatif, banner menarik | Tampilan terlalu sederhana, kurang profesional untuk portofolio resmi |
-| Konten & Informasi | Ada alias, media sosial, informasi singkat | Tidak ada deskripsi skill, project showcase, atau pencapaian nyata |
-| Interaksi | Efek JS memberi pengalaman aktif | Efek prank terlalu dominan, bisa mengalihkan fokus dari kemampuan nyata |
-| Responsivitas | Bisa diakses di HP dengan nyaman | Di tablet atau desktop banyak elemen pecah / layout berantakan |
-  </a>
-  <a href="https://codepen.io/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original.svg" width="50"/>
-  </a>
-</p>
+| Layout | <sub>✔ Optimal untuk ukuran HP, mudah di-scroll</sub> | <sub>❌ Kurang responsif di desktop, elemen terlihat berantakan</sub> |
+| Warna & Tema | <sub>✔ Warna cukup elegan, kombinasi soft & nyaman di mata</sub> | <sub>❌ Warna tidak konsisten di beberapa bagian, kurang modern di desktop</sub> |
+| Navigasi | <sub>✔ Menu interaktif & link sosial media langsung</sub> | <sub>❌ Beberapa menu terlihat prank / gimmick, kurang intuitif untuk user baru</sub> |
+| Visual & Asset | <sub>✔ ASCII art kreatif, banner menarik</sub> | <sub>❌ Tampilan terlalu sederhana, kurang profesional untuk portofolio resmi</sub> |
+| Konten & Informasi | <sub>✔ Ada alias, media sosial, informasi singkat</sub> | <sub>❌ Tidak ada deskripsi skill, project showcase, atau pencapaian nyata</sub> |
+| Interaksi | <sub>✔ Efek JS memberi pengalaman aktif</sub> | <sub>❌ Efek prank terlalu dominan, bisa mengalihkan fokus dari kemampuan nyata</sub> |
+| Responsivitas | <sub>✔ Bisa diakses di HP dengan nyaman</sub> | <sub>❌ Di tablet atau desktop banyak elemen pecah / layout berantakan</sub> |
