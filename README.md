@@ -1,6 +1,8 @@
 # Enjoy
 
-[Link Portfolio Cyuk](https://boiescylosh.github.io/Portfolio/)
+Portfolio menjadi identitas kreatif yang menyatukan pengalaman, keahlian, dan visi dalam satu ruang digital. Lebih dari sekadar dokumentasi, portfolio menunjukkan perjalanan, konsistensi, dan pendekatan profesional terhadap setiap proyek dan proses yang dijalani.
+
+[Link Portfolio](https://boiescylosh.github.io/Portfolio/)
 
 # Links Foto
 
