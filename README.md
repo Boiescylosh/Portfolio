@@ -37,3 +37,7 @@ Portfolio menjadi identitas kreatif yang menyatukan pengalaman, keahlian, dan vi
 | **Interaksi** | <sub>Interaktivitas terbatas pada navigasi tautan eksternal dan efek klik sederhana.</sub> | <sub>Functional Basic</sub> |
 | **Portofolio** | <sub>Dokumentasi proyek teknis masih dalam tahap pengembangan; fokus saat ini pada personal branding.</sub> | <sub>Initial Phase</sub> |
 | **Profesionalisme** | <sub>Memperlihatkan sisi kreatif yang kuat secara personal daripada standar desain korporat konvensional.</sub> | <sub>Creative Branding</sub> |
+
+# Logo
+
+![preview](https://g.top4top.io/p_3705sfum60.png)
