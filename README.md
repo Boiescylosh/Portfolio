@@ -1,8 +1,19 @@
+![Author](https://img.shields.io/badge/AUTHOR-BOIESCYLOSH-87CEEB?style=for-the-badge&logo=github&logoColor=white)
+
+![preview](https://g.top4top.io/p_3705sfum60.png)
+
 # Enjoy
 
 Portfolio menjadi identitas kreatif yang menyatukan pengalaman, keahlian, dan visi dalam satu ruang digital. Lebih dari sekadar dokumentasi, portfolio menunjukkan perjalanan, konsistensi, dan pendekatan profesional terhadap setiap proyek dan proses yang dijalani.
 
 [Link Portfolio](https://boiescylosh.github.io/Portfolio/)
+
+# Language
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 # Links Foto
 
@@ -37,7 +48,3 @@ Portfolio menjadi identitas kreatif yang menyatukan pengalaman, keahlian, dan vi
 | **Interaksi** | <sub>Interaktivitas terbatas pada navigasi tautan eksternal dan efek klik sederhana.</sub> | <sub>Functional Basic</sub> |
 | **Portofolio** | <sub>Dokumentasi proyek teknis masih dalam tahap pengembangan; fokus saat ini pada personal branding.</sub> | <sub>Initial Phase</sub> |
 | **Profesionalisme** | <sub>Memperlihatkan sisi kreatif yang kuat secara personal daripada standar desain korporat konvensional.</sub> | <sub>Creative Branding</sub> |
-
-# Logo
-
-![preview](https://g.top4top.io/p_3705sfum60.png)
